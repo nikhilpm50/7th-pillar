@@ -20,8 +20,8 @@ function Navbar() {
     </div>
     
     
-    <div onClick={()=>setHide(true)}>
-        <img src="search.png" alt="search" class="h-5 w-5"  />
+    <div >
+        <img src="search.png" alt="search" class="h-5 w-5 cursor-pointer"  onClick={()=>setHide(true)}/>
     </div>
     
     </div>}
