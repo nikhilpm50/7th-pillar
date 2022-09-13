@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/7th-pillar/static/css/main.f68cdd74.css",
+    "main.js": "/7th-pillar/static/js/main.8594ec6f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/7th-pillar/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/7th-pillar/index.html",
+    "main.f68cdd74.css.map": "/7th-pillar/static/css/main.f68cdd74.css.map",
+    "main.8594ec6f.js.map": "/7th-pillar/static/js/main.8594ec6f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/7th-pillar/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68cdd74.css",
+    "static/js/main.8594ec6f.js"
+  ]
+}
